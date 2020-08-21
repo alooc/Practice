@@ -1,2 +1,2 @@
 # Practice
-My first repository on GitHub.
+本仓库用于项目实战。
